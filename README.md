@@ -23,8 +23,7 @@
 
 <div>
         <img style="width:50px;" src="https://www.svgrepo.com/show/354321/selenium.svg" />  
-
-         <img style="width:50px;" src="https://www.svgrepo.com/show/508894/aspnet.svg" />
+        <img style="width:50px;" src="https://www.svgrepo.com/show/508894/aspnet.svg" />
 </div>
 
 

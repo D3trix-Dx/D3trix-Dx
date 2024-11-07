@@ -22,12 +22,11 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 <div>
-        <img style="width:50px;" src="https://www.svgrepo.com/show/354321/selenium.svg" />        
-</div>
+        <img style="width:50px;" src="https://www.svgrepo.com/show/354321/selenium.svg" />  
 
-<div>
          <img style="width:50px;" src="https://www.svgrepo.com/show/508894/aspnet.svg" />
 </div>
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=D3trix-Dx&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>

@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 - ⚡ Fun fact: ...
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=D3trix-Dx&show_icons=true&theme=radical)
 
 <!---
 D3trix-Dx/D3trix-Dx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
